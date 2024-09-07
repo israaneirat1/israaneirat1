@@ -18,6 +18,8 @@
 <a href="https://www.linkedin.com/in/israa-neirat-4277932ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israa-neirat-4277932ba/" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/israaneirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="israaneirat" height="30" width="40" /></a>
+<a href="https://www.datacamp.com/portfolio/israaneirat" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/1200/1*JpjDIxDcIo3uNueS3b_K2w.png" alt="ISRAA NEIRAT" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
