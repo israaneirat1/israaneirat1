@@ -11,7 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/israa neirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israa neirat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/israa-neirat-4277932ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israa-neirat-4277932ba/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/israaneirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="israaneirat" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/israaneirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="israaneirat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=israaneirat1&show_icons=true&locale=en" alt="israaneirat1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israaneirat1&" alt="israaneirat1" /></p>
-
