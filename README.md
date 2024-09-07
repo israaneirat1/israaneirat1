@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm israa neirat</h1>
 <h3 align="center">a fourth-year Computer Engineering student with a strong passion for front-end development. Over the past few years, I have honed my skills in creating dynamic and user-friendly interfaces using HTML, CSS, and JavaScript. My academic journey has equipped me with a solid foundation in computer science principles, while my hands-on experience in developing web applications has given me practical insights into user experience design and modern web technologies👩‍💻✨💜</h3>
-
+img{
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+ <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+}
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 
