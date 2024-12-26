@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm israa</h1>
 <h3 align="center">a fourth-year Computer Engineering student with a strong passion for front-end development. Over the past few years, I have honed my skills in creating dynamic and user-friendly interfaces using HTML, CSS, and JavaScript. My academic journey has equipped me with a solid foundation in computer science principles, while my hands-on experience in developing web applications has given me practical insights into user experience design and modern web technologies👩‍💻✨💜</h3>
 
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+<br> <br/> 
 - 🌱 I’m currently learning **Front-end developer**
 
 - 📫 How to reach me **israaneirat@gmail.com**
@@ -9,6 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/israa-neirat-4277932ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israa-neirat-4277932ba/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/israaneirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="israaneirat" height="30" width="40" /></a>
+<a href="https://www.datacamp.com/portfolio/israaneirat" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/1200/1*JpjDIxDcIo3uNueS3b_K2w.png" alt="ISRAA NEIRAT" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
